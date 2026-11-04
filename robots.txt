@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shotalx2-lgtm.github.io/Youssef/sitemap.xml
